@@ -44,7 +44,7 @@ eventEmitter.on('scream', myEventHandler);
 eventEmitter.emit('scream');
 
 
-ioio
+ioiobjhbj
 
 
 78
